@@ -1,2 +1,1 @@
-console.log("reached...........")
-console.log("Hellooooo.....")
+const a = "rajesh............"
